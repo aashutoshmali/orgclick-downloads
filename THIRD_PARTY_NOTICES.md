@@ -1,6 +1,6 @@
 # Third-party notices
 
-OrgPilot includes the following third-party material.
+OrgClick (formerly OrgPilot) includes the following third-party material.
 
 ## Salesforce Inspector Reloaded: Setup page list
 
